@@ -42,16 +42,16 @@ body{
 }
 
 .bg-secondary{
-    background-color: var(--primary-color)  !important;
+    background-color: var(--secondary-color)  !important;
 }
 .btn-outline-secondary{
-    border-color: var(--primary-color)  !important;
+    border-color: var(--secondary-color)  !important;
 }
 .btn-secondary{
-    background-color: var(--primary-color)  !important;
+    background-color: var(--secondary-color)  !important;
 }
 .text-secondary{
-    color:var(--primary-color) !important;
+    color:var(--secondary-color) !important;
 }
 
 .bg-light{
